@@ -8,3 +8,6 @@
 section{
     padding-top: 5rem;
 }
+.socials a {
+    margin-right: 10px; /* Menambahkan jarak kanan antara setiap ikon */
+}
